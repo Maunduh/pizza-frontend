@@ -7,7 +7,7 @@ export const SidebarConatiner = styled.aside`
  Z-index: 999;
  width: 350px;
  height: 100%;
- background: #ffc500;
+ background-color: grey;
  display: grid;
  align-items: center;
  top: 0;
